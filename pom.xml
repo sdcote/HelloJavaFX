@@ -41,6 +41,7 @@
                 <version>0.0.8</version>
                 <configuration>
                     <mainClass>com.sdcote.Main</mainClass>
+                    <launcher>hello</launcher> 
                     <options>
                         <option>--compress</option>
                         <option>zip-0</option>
